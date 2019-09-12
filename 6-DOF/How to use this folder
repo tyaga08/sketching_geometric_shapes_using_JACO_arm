@@ -1,0 +1,5 @@
+forwardkinematics.m= MATLAB file only to calculate the forward kinematics of the robot -6-DOF
+jacobian.m= to calculate only inverse kinematics of the robot
+jacofwdplot.m - function to plot the shape
+jacoinverplot.m - function to calculate inverse at each point
+plottrajectory.m - program to do all the calculations and display the robot in action

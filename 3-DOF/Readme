@@ -1,0 +1,8 @@
+1. Run the V-Rep simulator
+2. import the 'new_jaco_pen.ttt' scene from src folder
+3. run matlab and start the file square_draw.m
+4. type square_draw([3D point; 3D point;...])
+5. The points should be in the first quadrant and within 400.
+
+thanks
+
